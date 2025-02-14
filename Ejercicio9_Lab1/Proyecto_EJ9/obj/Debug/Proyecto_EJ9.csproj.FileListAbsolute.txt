@@ -1,0 +1,7 @@
+C:\Users\YelsonD\source\repos\Proyecto_EJ9\Proyecto_EJ9\bin\Debug\Proyecto_EJ9.exe.config
+C:\Users\YelsonD\source\repos\Proyecto_EJ9\Proyecto_EJ9\bin\Debug\Proyecto_EJ9.exe
+C:\Users\YelsonD\source\repos\Proyecto_EJ9\Proyecto_EJ9\bin\Debug\Proyecto_EJ9.pdb
+C:\Users\YelsonD\source\repos\Proyecto_EJ9\Proyecto_EJ9\obj\Debug\Proyecto_EJ9.csproj.AssemblyReference.cache
+C:\Users\YelsonD\source\repos\Proyecto_EJ9\Proyecto_EJ9\obj\Debug\Proyecto_EJ9.csproj.CoreCompileInputs.cache
+C:\Users\YelsonD\source\repos\Proyecto_EJ9\Proyecto_EJ9\obj\Debug\Proyecto_EJ9.exe
+C:\Users\YelsonD\source\repos\Proyecto_EJ9\Proyecto_EJ9\obj\Debug\Proyecto_EJ9.pdb

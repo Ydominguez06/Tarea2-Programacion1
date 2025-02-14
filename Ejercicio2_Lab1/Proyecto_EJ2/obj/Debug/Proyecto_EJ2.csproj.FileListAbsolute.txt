@@ -1,0 +1,7 @@
+C:\Users\YelsonD\source\repos\Proyecto_EJ2\Proyecto_EJ2\obj\Debug\Proyecto_EJ2.csproj.AssemblyReference.cache
+C:\Users\YelsonD\source\repos\Proyecto_EJ2\Proyecto_EJ2\obj\Debug\Proyecto_EJ2.csproj.CoreCompileInputs.cache
+C:\Users\YelsonD\source\repos\Proyecto_EJ2\Proyecto_EJ2\bin\Debug\Proyecto_EJ2.exe.config
+C:\Users\YelsonD\source\repos\Proyecto_EJ2\Proyecto_EJ2\bin\Debug\Proyecto_EJ2.exe
+C:\Users\YelsonD\source\repos\Proyecto_EJ2\Proyecto_EJ2\bin\Debug\Proyecto_EJ2.pdb
+C:\Users\YelsonD\source\repos\Proyecto_EJ2\Proyecto_EJ2\obj\Debug\Proyecto_EJ2.exe
+C:\Users\YelsonD\source\repos\Proyecto_EJ2\Proyecto_EJ2\obj\Debug\Proyecto_EJ2.pdb

@@ -1,0 +1,7 @@
+C:\Users\YelsonD\source\repos\P1_EJ12\P1_EJ12\bin\Debug\P1_EJ12.exe.config
+C:\Users\YelsonD\source\repos\P1_EJ12\P1_EJ12\bin\Debug\P1_EJ12.exe
+C:\Users\YelsonD\source\repos\P1_EJ12\P1_EJ12\bin\Debug\P1_EJ12.pdb
+C:\Users\YelsonD\source\repos\P1_EJ12\P1_EJ12\obj\Debug\P1_EJ12.csproj.AssemblyReference.cache
+C:\Users\YelsonD\source\repos\P1_EJ12\P1_EJ12\obj\Debug\P1_EJ12.csproj.CoreCompileInputs.cache
+C:\Users\YelsonD\source\repos\P1_EJ12\P1_EJ12\obj\Debug\P1_EJ12.exe
+C:\Users\YelsonD\source\repos\P1_EJ12\P1_EJ12\obj\Debug\P1_EJ12.pdb
