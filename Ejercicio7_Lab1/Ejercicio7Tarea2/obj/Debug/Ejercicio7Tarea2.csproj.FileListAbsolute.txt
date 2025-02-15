@@ -1,0 +1,7 @@
+C:\Users\50489\Desktop\Diego U\PROGRAMACION 1\Ejercicio7Tarea2\Ejercicio7Tarea2\obj\Debug\Ejercicio7Tarea2.csproj.AssemblyReference.cache
+C:\Users\50489\Desktop\Diego U\PROGRAMACION 1\Ejercicio7Tarea2\Ejercicio7Tarea2\obj\Debug\Ejercicio7Tarea2.csproj.CoreCompileInputs.cache
+C:\Users\50489\Desktop\Diego U\PROGRAMACION 1\Ejercicio7Tarea2\Ejercicio7Tarea2\bin\Debug\Ejercicio7Tarea2.exe.config
+C:\Users\50489\Desktop\Diego U\PROGRAMACION 1\Ejercicio7Tarea2\Ejercicio7Tarea2\bin\Debug\Ejercicio7Tarea2.exe
+C:\Users\50489\Desktop\Diego U\PROGRAMACION 1\Ejercicio7Tarea2\Ejercicio7Tarea2\bin\Debug\Ejercicio7Tarea2.pdb
+C:\Users\50489\Desktop\Diego U\PROGRAMACION 1\Ejercicio7Tarea2\Ejercicio7Tarea2\obj\Debug\Ejercicio7Tarea2.exe
+C:\Users\50489\Desktop\Diego U\PROGRAMACION 1\Ejercicio7Tarea2\Ejercicio7Tarea2\obj\Debug\Ejercicio7Tarea2.pdb
