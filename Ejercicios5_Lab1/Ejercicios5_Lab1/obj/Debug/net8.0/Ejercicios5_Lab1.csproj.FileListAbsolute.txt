@@ -1,0 +1,14 @@
+C:\Users\Jaime\source\repos\Ejercicios5_Lab1\Ejercicios5_Lab1\obj\Debug\net8.0\Ejercicios5_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaime\source\repos\Ejercicios5_Lab1\Ejercicios5_Lab1\obj\Debug\net8.0\Ejercicios5_Lab1.AssemblyInfoInputs.cache
+C:\Users\Jaime\source\repos\Ejercicios5_Lab1\Ejercicios5_Lab1\obj\Debug\net8.0\Ejercicios5_Lab1.AssemblyInfo.cs
+C:\Users\Jaime\source\repos\Ejercicios5_Lab1\Ejercicios5_Lab1\obj\Debug\net8.0\Ejercicios5_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\source\repos\Ejercicios5_Lab1\Ejercicios5_Lab1\bin\Debug\net8.0\Ejercicios5_Lab1.exe
+C:\Users\Jaime\source\repos\Ejercicios5_Lab1\Ejercicios5_Lab1\bin\Debug\net8.0\Ejercicios5_Lab1.deps.json
+C:\Users\Jaime\source\repos\Ejercicios5_Lab1\Ejercicios5_Lab1\bin\Debug\net8.0\Ejercicios5_Lab1.runtimeconfig.json
+C:\Users\Jaime\source\repos\Ejercicios5_Lab1\Ejercicios5_Lab1\bin\Debug\net8.0\Ejercicios5_Lab1.dll
+C:\Users\Jaime\source\repos\Ejercicios5_Lab1\Ejercicios5_Lab1\bin\Debug\net8.0\Ejercicios5_Lab1.pdb
+C:\Users\Jaime\source\repos\Ejercicios5_Lab1\Ejercicios5_Lab1\obj\Debug\net8.0\Ejercicios5_Lab1.dll
+C:\Users\Jaime\source\repos\Ejercicios5_Lab1\Ejercicios5_Lab1\obj\Debug\net8.0\refint\Ejercicios5_Lab1.dll
+C:\Users\Jaime\source\repos\Ejercicios5_Lab1\Ejercicios5_Lab1\obj\Debug\net8.0\Ejercicios5_Lab1.pdb
+C:\Users\Jaime\source\repos\Ejercicios5_Lab1\Ejercicios5_Lab1\obj\Debug\net8.0\Ejercicios5_Lab1.genruntimeconfig.cache
+C:\Users\Jaime\source\repos\Ejercicios5_Lab1\Ejercicios5_Lab1\obj\Debug\net8.0\ref\Ejercicios5_Lab1.dll
