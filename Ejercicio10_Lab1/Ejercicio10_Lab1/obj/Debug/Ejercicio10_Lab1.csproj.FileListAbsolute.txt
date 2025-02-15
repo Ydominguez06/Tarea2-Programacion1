@@ -1,0 +1,7 @@
+C:\Users\Yel\Downloads\Ejercicios Laboratorio 1\Ejercicio10_Lab1\Ejercicio10_Lab1\bin\Debug\Ejercicio10_Lab1.exe.config
+C:\Users\Yel\Downloads\Ejercicios Laboratorio 1\Ejercicio10_Lab1\Ejercicio10_Lab1\bin\Debug\Ejercicio10_Lab1.exe
+C:\Users\Yel\Downloads\Ejercicios Laboratorio 1\Ejercicio10_Lab1\Ejercicio10_Lab1\bin\Debug\Ejercicio10_Lab1.pdb
+C:\Users\Yel\Downloads\Ejercicios Laboratorio 1\Ejercicio10_Lab1\Ejercicio10_Lab1\obj\Debug\Ejercicio10_Lab1.csproj.AssemblyReference.cache
+C:\Users\Yel\Downloads\Ejercicios Laboratorio 1\Ejercicio10_Lab1\Ejercicio10_Lab1\obj\Debug\Ejercicio10_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Yel\Downloads\Ejercicios Laboratorio 1\Ejercicio10_Lab1\Ejercicio10_Lab1\obj\Debug\Ejercicio10_Lab1.exe
+C:\Users\Yel\Downloads\Ejercicios Laboratorio 1\Ejercicio10_Lab1\Ejercicio10_Lab1\obj\Debug\Ejercicio10_Lab1.pdb
