@@ -1,0 +1,14 @@
+C:\Users\Jaime\source\repos\Proyecto_Final\Proyecto_Final\obj\Debug\net8.0\Proyecto_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaime\source\repos\Proyecto_Final\Proyecto_Final\obj\Debug\net8.0\Proyecto_Final.AssemblyInfoInputs.cache
+C:\Users\Jaime\source\repos\Proyecto_Final\Proyecto_Final\obj\Debug\net8.0\Proyecto_Final.AssemblyInfo.cs
+C:\Users\Jaime\source\repos\Proyecto_Final\Proyecto_Final\obj\Debug\net8.0\Proyecto_Final.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\source\repos\Proyecto_Final\Proyecto_Final\bin\Debug\net8.0\Proyecto_Final.exe
+C:\Users\Jaime\source\repos\Proyecto_Final\Proyecto_Final\bin\Debug\net8.0\Proyecto_Final.deps.json
+C:\Users\Jaime\source\repos\Proyecto_Final\Proyecto_Final\bin\Debug\net8.0\Proyecto_Final.runtimeconfig.json
+C:\Users\Jaime\source\repos\Proyecto_Final\Proyecto_Final\bin\Debug\net8.0\Proyecto_Final.dll
+C:\Users\Jaime\source\repos\Proyecto_Final\Proyecto_Final\bin\Debug\net8.0\Proyecto_Final.pdb
+C:\Users\Jaime\source\repos\Proyecto_Final\Proyecto_Final\obj\Debug\net8.0\Proyecto_Final.dll
+C:\Users\Jaime\source\repos\Proyecto_Final\Proyecto_Final\obj\Debug\net8.0\refint\Proyecto_Final.dll
+C:\Users\Jaime\source\repos\Proyecto_Final\Proyecto_Final\obj\Debug\net8.0\Proyecto_Final.pdb
+C:\Users\Jaime\source\repos\Proyecto_Final\Proyecto_Final\obj\Debug\net8.0\Proyecto_Final.genruntimeconfig.cache
+C:\Users\Jaime\source\repos\Proyecto_Final\Proyecto_Final\obj\Debug\net8.0\ref\Proyecto_Final.dll
